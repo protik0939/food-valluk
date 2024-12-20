@@ -1,0 +1,25 @@
+.carousel * {
+    box-sizing: border-box;
+    border-radius: 0px;
+    text-align: center;
+}
+
+.thumb {
+    border-radius: 5px;
+}
+
+.carousel .control-prev.control-arrow {
+    background: linear-gradient(90deg, rgba(195,140,102,1) 0%, rgba(195,140,102,0) 100%);
+}
+
+.carousel .control-prev.control-arrow:hover {
+    background: linear-gradient(90deg, rgba(195,140,102,1) 0%, rgba(195,140,102,0) 100%);
+}
+
+.carousel .control-next.control-arrow{
+    background: linear-gradient(90deg, rgba(195,140,102,0) 0%, rgba(195,140,102,1) 100%);
+}
+
+.carousel .control-next.control-arrow:hover{
+    background: linear-gradient(90deg, rgba(195,140,102,0) 0%, rgba(195,140,102,1) 100%);
+}

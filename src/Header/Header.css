@@ -1,0 +1,10 @@
+.logoTextColor {
+    font-size: 20px;
+    background: -webkit-linear-gradient(#c38c66, #f3dab3);
+    background: linear-gradient(#c38c66, #f3dab3); /* Standard gradient */
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
